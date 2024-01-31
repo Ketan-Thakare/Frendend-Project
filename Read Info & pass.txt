@@ -1,0 +1,26 @@
+How to run the E-Notes System Project
+
+1. Download the zip file
+
+2. Extract the file and copy note folder
+
+3.Paste inside root directory(for xampp xampp/htdocs)
+
+4. Open PHPMyAdmin (http://localhost/phpmyadmin)
+
+5. Create a database with name e_notes_system
+
+6. Import e_notes_system.sql file(given inside the zip package in SQL file folder)
+
+7.Run the script http://localhost/note (frontend)
+
+
+
+
+Admin(Teacher)
+UserName = " teacher@gmail.com"
+password = " teacher@123 "
+
+Student 
+ Username = " ketan@gmail.com "
+password = "123"
